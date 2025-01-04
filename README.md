@@ -24,13 +24,6 @@ The program takes a random action or number from the database and displays it on
 Thus, you can play poker, alone at home.
 The program in C# works exactly the same as RoboPoker Script on Shell.
 
-## Program demonstration
-
-<p>Random-sequential program for choosing "options" in poker (Texas Hold'em).</p>
-<p>The program takes a random action or number from the database and displays it on the screen.</p>
-<p>Thus, you can play poker, alone at home.</p>
-<p>The program in C# works exactly the same as RoboPoker Script on Shell.</p>
-
 ## Before launching
 
 <p>For the program to work correctly, you need to install DotNet Framework 2.0, 3.5, 4.0 and higher!</p>
