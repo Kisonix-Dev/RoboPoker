@@ -5,7 +5,6 @@
 Рандомно-последовательная программа для выбора "опций" в покере (Техасский холдем).
 Программа берёт рандомное действие либо число из базы данных и выводит его на экран.
 Таким образом, вы сможете играть в покер, один дома.
-Программа на C# работает точно так-же как и RoboPoker Script на Shell.
 
 ## Демонстрация программы
 
@@ -22,7 +21,6 @@
 Random-sequential program for choosing "options" in poker (Texas Hold'em).
 The program takes a random action or number from the database and displays it on the screen.
 Thus, you can play poker, alone at home.
-The program in C# works exactly the same as RoboPoker Script on Shell.
 
 ## Before launching
 
